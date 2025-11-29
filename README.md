@@ -51,3 +51,11 @@ JWT_SECRET=your_jwt_secret
 ```
 
 Deployed on Vercel - Visit: https://certitrack-pro.vercel.app
+
+
+## Deployment Status
+
+✅ **Build Status**: Production-ready with Next.js 14.2.3
+- GitHub: Connected via main branch
+- Vercel: Auto-deployed
+- Domain: certitrack-pro-app.vercel.app
