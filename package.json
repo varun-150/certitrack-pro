@@ -1,4 +1,5 @@
 {
+  // MongoDB certification tracking platform - Production ready
   "name": "certitrack-pro",
   "version": "1.0.0",
   "description": "Professional Certification Tracking Platform",
